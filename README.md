@@ -1,4 +1,4 @@
 # это просто текст внутри файла README.md
 special feature added
 unit tests added
-param=1
+param=2
